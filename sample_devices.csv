@@ -1,0 +1,624 @@
+﻿Family;Part Number;Description
+1900ISR;CISCO1905BR/K9=;C1905 Brazil 2 GE, HWIC-1T, CAB-SS-V35MT, 256F/256D, IPBase
+1900ISR;C1905BR-SEC/K9=;CE Brazil Cisco 1905 SEC Bundle
+AIR1700;AIRCAP1702I-ZK9BR=;"802.11ac AP Ctrlr-based AP, 3x3:2SS; Int Ant;"
+AIR1830;AIR-AP1832I-Z-K9;"802.11ac Wave 2; 3x3:2SS; Int Ant; Z Reg Domain"
+AIR1830;AIR-AP1832I-Z-K9C;Cisco Aironet 1830 Series with Mobility Express
+AIR1850;AIR-AP1852E-Z-K9;"802.11ac Wave 2; 4x4:4SS; Ext Ant; Z Reg Dom"
+AIR1850;AIR-AP1852E-Z-K9C;Aironet 1850 Series with Mobility Express
+AIR1850;AIR-AP1852I-Z-K9;"802.11ac Wave 2; 4x4:4SS; Int Ant; Z Reg Dom"
+AIR1850;AIR-AP1852I-Z-K9C;Aironet 1850 Series with Mobility Express
+AIR2700;AIRCAP2702I-ZK9BR=;"802.11ac AP w/CleanAir; 3x4:3SS; Int Ant;"
+AIR2700;AIRCAP2702E-ZK9BR=;"802.11ac AP w/CleanAir; 3x4:3SS; Ext Ant,"
+AIR2800;AIR-AP2802E-Z-K9;"802.11ac W2 AP w/CA; 4x4:3; Ext Ant; 2xGbE, Z Domain"
+AIR2800;AIR-AP2802E-Z-K9C;Cisco Aironet 2800 Series with Mobility Express
+AIR2800;AIR-AP2802I-Z-K9;"802.11ac W2 AP w/CA; 4x4:3; Int Ant; 2xGbE Z Domain"
+AIR2800;AIR-AP2802I-Z-K9C;Cisco Aironet 2800 Series with Mobility Express
+AIR3800;AIR-AP3802E-Z-K9;"802.11ac W2 AP w/CA; 4x4:3; Mod; Ext Ant; mGig Z Domain"
+AIR3800;AIR-AP3802E-Z-K9C;Cisco Aironet 3800 Series with Mobility Express
+AIR3800;AIR-AP3802I-Z-K9;"802.11ac W2 AP w/CA; 4x4:3; Mod; Int Ant; mGig Z Domain"
+AIR3800;AIR-AP3802I-Z-K9C;Cisco Aironet 3800 Series with Mobility Express
+AIR3800;AIR-AP3802P-Z-K9;"802.11ac W2 AP w/CA; 4x4:3; Mod; Pro Ext; mGig Z Domain"
+AIR3800;AIR-AP3802P-Z-K9C;"802.11ac W2 AP w/CA; 4x4:3; Mod; Pro Ext; mGig Z Dom (CFG)"
+ASR1000;ASR1001-X;Cisco ASR1001-X Chassis, 6 built-in GE, Dual P/S, 8GB DRAM
+ASR1000;ASR1001X-2.5G-K9;ASR1001-X, 2.5G Base Bundle, K9,  AES, Built-in 6x1G
+ASR1000;ASR1001X-2.5G-SEC;ASR1001-X, 2.5G, VPN+FW Bundle, K9, AES, Built-in 6x1G
+ASR1000;ASR1001X-2.5G-VPN;ASR1001-X, 2.5G, VPN Bundle, K9, AES, Built-in 6x1G
+ASR1000;ASR1001X-20G-K9;ASR1001-X, 20G Base Bundle, K9, AES, Built-in 6x1G, 2x10G
+ASR1000;ASR1001X-5G-K9;ASR1001-X, 5G Base Bundle, K9,  AES, Built-in 6x1G
+ASR1000;ASR1001X-AES-AX;ASR1001X AX, AVC, AES, vWAAS Bundle
+ASR1000;ASR1002-X;Cisco ASR1002-X Chassis, 6 built-in GE, Dual P/S, 4GB DRAM
+ASR1000;ASR1002X-10G-K9;ASR1002-X, 10G, K9, AES license
+ASR1000;ASR1002X-10G-VPNK9;ASR1002-X, 10G, VPN Bundle, K9, AES license
+ASR1000;ASR1002X-5G-HA-K9;ASR1002-X, 5G, HA Bundle, K9, AES license
+ASR1000;ASR1002X-5G-K9;ASR1002-X, 5G, K9, AES license
+ASR1000;ASR1002X-5G-SECK9;ASR1002-X, 5G, VPN+FW Bundle, K9, AES license
+ASR1000;ASR1002X-5G-SHAK9;ASR1002-X, 5G, Sec+HA Bundle, K9, AES license
+ASR1000;ASR1002X-5G-VPNK9;ASR1002-X, 5G, VPN Bundle, K9, AES license
+ASR1000;ASR1004;Cisco ASR1004 Chassis, Dual P/S
+ASR1000;ASR1006;Cisco ASR1006 Chassis, Dual P/S
+ASR1000;ASR1013;Cisco ASR1013 Chassis, Redundant P/S
+ASR1000;ASR1002-HX;Cisco ASR1002-HX System,4x10GE+4x1GE, 2xP/S, optional crypto
+ASR1000;ASR1006-X;Cisco ASR1006-X Chassis
+ASR1000;ASR1009-X;Cisco ASR1009-X Chassis
+ASR1000;ASR1001-HX;Cisco ASR1001-HX System,8x10GE+8x1GE,2xP/S, optional crypto
+ASR1000;ASR1002-HX;Cisco ASR1002-HX System,4x10GE+4x1GE, 2xP/S, optional crypto
+ASR1000;ASR1009-X;Cisco ASR1009-X Chassis
+ASR1000;ASR1006-X;Cisco ASR1006-X Chassis
+ASR9000;ASR-9904;ASR-9904 2 Line Card Slot Chassis
+ASR9000;ASR-9006-SYS;ASR-9006 Chassis
+ASR9000;ASR-9010-SYS;ASR-9010 Chassis
+ASR9000;ASR-9010-DC-V2;ASR 9010 DC Chassis with PEM Version 2
+ASR9000;ASR-9010-AC-V2;ASR 9010 AC Chassis with PEM Version 2
+ASR9000;ASR-9006-DC-V2;ASR 9006 DC Chassis with PEM Version 2
+ASR9000;ASR-9006-AC-V2;ASR 9006 AC Chassis with PEM Version 2
+ASR9000;ASR-9001-S;ASR 9001 Chassis with 60G Bandwidth
+ASR9000;ASR-9001;ASR 9001 Chassis
+ASR9000;ASR-9910;ASR 9910 8 Line Card Slot Chassis
+ASR9000;ASR-9922-TH-BUN;ASR 9922 TH Chassis bundle
+ASR9000;ASR-9922;ASR 9922 20 Line Card Slot Chassis
+ASR9K Spares;A99-12X100GE=;ASR 9900 12-port 100GE Line card
+ASR9K Spares;A99-12X100GE-CM=;ASR 9900 12-port 100GE Consumption Model Line Card
+ASR9K Spares;A99-4PT-CM-SEL2P=;ASR 9900 4-port CM SE L2P Bundle (L2P, OAM, Virt, HQoS)
+ASR9K Spares;A99-4PT-CM-SEL3P=;ASR 9900 4-port CM SE L3P Bundle (L2L3P, OAM, Virt, HQoS)
+ASR9K Spares;A99-4PT-CM-TRL2P=;ASR 9900 4-port CM TR L2P Bundle (L2P, OAM, Virt)
+ASR9K Spares;A99-4PT-CM-TRL3P=;ASR 9900 4-port CM TR L3P Bundle (L2L3P, OAM, Virt)
+ASR9K Spares;A99-8PT-CM-SEL2P=;ASR 9900 8-port CM SE L2P Bundle (L2P, OAM, Virt, HQoS)
+ASR9K Spares;A99-8PT-CM-SEL3P=;ASR 9900 8-port CM SE L3P Bundle (L2L3P, OAM, Virt, HQoS)
+ASR9K Spares;A99-8PT-CM-TRL2P=;ASR 9900 8-port CM TR L2P Bundle (L2P, OAM, Virt)
+ASR9K Spares;A99-8PT-CM-TRL3P=;ASR 9900 8-port CM TR L3P Bundle (L2L3P, OAM, Virt)
+ASR9K Spares;A99-8X100GE-CM=;ASR 9900 8-port 100GE 7-fabric Consumption Model Line Card
+ASR9K Spares;A99-8X100GE-SE=;ASR 9900 8-port 100GE LC -SE OTN
+ASR9K Spares;A99-8X100GE-TR=;ASR 9900 8-port 100GE LC -TR OTN
+ASR9K Spares;A9K-4HG-200G-DWDM=;PAYG for 200Gbs use in  400G IPoDWDM cards
+ASR9K Spares;A9K-4PT-CM-SEL2P=;ASR 9K 4-port CM SE L2P Bundle including 8-port 100G LC
+ASR9K Spares;A9K-4PT-CM-SEL3P=;ASR 9K 4-port CM SE L3P Bundle including 8-port 100GE LC
+ASR9K Spares;A9K-4PT-CM-TRL2P=;ASR 9K 4-port CM TR L2P Bundle including 8-port 100G LC
+ASR9K Spares;A9K-4PT-CM-TRL3P=;ASR 9K 4-port CM TR L3P Bundle including 8-port 100GE LC
+ASR9K Spares;A9K-8PT-CM-SEL2P=;ASR 9K Consumption Model SE L2P Bundle Spare
+ASR9K Spares;A9K-8PT-CM-SEL3P=;ASR 9K Consumption Model SE L3P Bundle Spare
+ASR9K Spares;A9K-8PT-CM-TRL2P=;ASR 9K Consumption Model TR L2P Bundle Spare
+ASR9K Spares;A9K-8PT-CM-TRL3P=;ASR 9K Consumption Model TR L3P Bundle Spare
+ASR9K Spares;A9K-8X100GE-CM=;ASR 9000 8-port 100GE Consumption Model Line Card
+ASR9K Spares;A9K-8X100GE-SE=;ASR 9000 8-port 100GE SE card -OTN
+ASR9K Spares;A9K-8X100GE-TR=;ASR 9000 8-port 100GE TR card -OTN
+ASR9K Spares;A9K-MOD200-SE=;200G Modular Linecard, Service Edge Optimized
+ASR9K Spares;A9K-MOD200-TR=;200G Modular Linecard, Packet Transport Optimized
+ASR9K Spares;A9K-MOD400-SE=;400G Modular Linecard, Service Edge Optimized
+ASR9K Spares;A9K-MOD400-TR=;400G Modular Linecard, Packet Transport Optimized
+ASR9K Spares;A99-SFC2=;ASR 9900 Series Switch Fabric Card 2 Spare
+ASR9K Spares;A99-SFC-S=;ASR 9910 Switch Fabric Card
+ASR9K Spares;ASR-9922-SFC110=;ASR 9922 Switch Fabric Card/110G
+ASR9K Spares;A9K-VSM-500=;ASR9000 Virtualized Service Module
+ASR9K Spares;A9K-MPA-1X40GE=;ASR 9000 1-port 40GE Modular Port Adapter
+ASR9K Spares;A9K-MPA-20X10GE=;ASR 9000 20-port 10GE Modular Port Adapter
+ASR9K Spares;A9K-MPA-20X1GE=;ASR 9000 20-port 1GE Modular Port Adapter (spare)
+ASR9K Spares;A9K-MPA-2X10GE=;ASR 9000 2-port 10GE Modular Port Adapter
+ASR9K Spares;A9K-MPA-2X40GE=;ASR 9000 2-port 40GE Modular Port Adapter
+ASR9K Spares;A9K-MPA-4X10GE=;ASR 9000 4-port 10GE Modular Port Adapter (spare)
+ASR9K Spares;A9K-MPA-8X10GE=;ASR 9000 8-port 10GE Modular Port Adapter
+ASR9K Spares;A9K-1X100GE-SE=;ASR 9000 1-port 100GE, Service Edge Optimized LC
+ASR9K Spares;A9K-1X100GE-TR=;ASR 9000 1-port 100GE, Packet Transport Optimized LC
+ASR9K Spares;A9K-24X10GE-SE=;ASR 9000 24-port 10GE, Service Edge Optimized LC (spare)
+ASR9K Spares;A9K-24X10GE-TR=;ASR 9000 24-port 10GE, Packet Transport Optimized LC (spare)
+ASR9K Spares;A9K-2X100GE-SE=;ASR 9000 2-port 100GE, Service Edge Optimized LC (spare)
+ASR9K Spares;A9K-2X100GE-TR=;ASR 9000 2-port 100GE, Packet Transport Optimized LC (spare)
+ASR9K Spares;A9K-36X10GE-SE=;ASR 9000 36-port 10GE, Service Edge Optimized LC
+ASR9K Spares;A9K-36X10GE-TR=;ASR 9000 36-port 10GE, Packet Transport Optimized LC
+ASR9K Spares;A9K-40GE-SE=;40-Port GE Line Card, Service Edge Optimized
+ASR9K Spares;A9K-40GE-TR=;40-Port GE Line Card, Packet Transport Optimized
+ASR9K Spares;A9K-4T16GE-SE=;4X10GE / 16X1G Combo Linecard, Service Edge Optimized
+ASR9K Spares;A9K-4T16GE-TR=;4X10GE / 16X1G Combo Linecard, Packet Transport Optimized
+ASR9K Spares;A9K-MOD160-SE=;160G Modular Linecard Service Edge Optimized
+ASR9K Spares;A9K-MOD160-TR=;160G Modular Linecard, Packet Transport Optimized
+ASR9K Spares;A9K-MOD80-SE=;80G Modular Linecard, Service Edge Optimized (spare)
+ASR9K Spares;A9K-MOD80-TR=;80G Modular Linecard, Packet Transport Optimized (spare)
+ASR9K Spares;A99-RP2-SE=;ASR 9900 Route Processor 2 for Service Edge Spare
+ASR9K Spares;A99-RP2-TR=;ASR 9900 Route Processor 2 for Packet Transport Spare
+ASR9K Spares;A99-RSP-SE=;ASR 9910 Route Processor for Service Edge
+ASR9K Spares;A99-RSP-TR=;ASR 9910 Route Processor for Transport Spare
+ASR9K Spares;A9K-RSP440-LT=;ASR9K RSP 180G/slot upgradeable to 440G/slot 8GB RAM, spare
+ASR9K Spares;A9K-RSP440-SE=;ASR9K Route Switch Processor with 440G/slot Fabric and 12GB
+ASR9K Spares;A9K-RSP440-TR=;ASR9K Route Switch Processor with 440G/slot Fabric and 6GB
+ASR9K Spares;A9K-RSP880-RL-SE=;A9K RSP880 Service Edge Rate Limit to 440G/Slot Fabric
+ASR9K Spares;A9K-RSP880-RL-TR=;A9K RSP880 Transport Rate Limit to 440G/Slot Fabric
+ASR9K Spares;A9K-RSP880-SE=;ASR 9000 Route Switch Processor 880 for Service Edge Spare
+ASR9K Spares;A9K-RSP880-TR=;ASR 9000 Route Switch Processor 880 for Packet Trans. Spare
+ASR9K Spares;ASR-9900-RP-SE=;ASR 99xx Route Processor 12GB for Service Edge
+ASR9K Spares;ASR-9900-RP-TR=;ASR 99xx Route Processor 6GB for Packet Transport
+ASR9K Spares;ASR-9922-RP-SE=;ASR 9922 Route Processor 12GB for Service Edge
+ASR9K Spares;ASR-9922-RP-TR=;ASR 9922 Route Processor 6GB for Packet Transport
+ASR9K Spares;A9K-SIP-700=;Cisco ASR 9000 Series SPA Interface Processor-700
+ASR9K Spares;A9K-SIP-700-8G=;Cisco ASR 9000 Series SPA Interface Processor-700,8GB Memory
+ASR9K Spares;ASR-9001=;ASR 9001 Chassis
+ASR9K Spares;ASR-9001-S=;ASR 9001 Chassis with 60G Bandwidth
+ASR9K Spares;ASR-9006-SYS=;ASR-9006 Chassis
+ASR9K Spares;ASR-9010-SYS=;ASR-9010 Chassis
+ASR9K Spares;ASR-9904=;ASR-9904 2 Line Card Slot Chassis Spare
+ASR9K Spares;ASR-9910=;ASR 9910 8 Line Card Slot Chassis Spare
+ASR9K Spares;ASR-9922=;ASR 9922 20 Line Card Slot Chassis Spare
+ASR9K Spares;A9K-4X100GE-SE=;ASR 9000 4-port 100GE LC -SE OTN
+ASR9K Spares;A9K-4X100GE-TR=;ASR 9000 4-port 100GE LC -TR OTN
+ASR9K Spares;A9K-RSP880-SE-2P=;2PK ASR 9K Route Switch Processor Service Edge 880G/slot
+ASR9K Spares;A9K-RSP880-TR-2P=;2PK ASR 9K Route Switch Processor Transport 880G/slot
+ASR9K Spares;A9K-MPA-1X100GE=;ASR 9000 1-port 100GE Modular Port Adapter
+ASR9K Spares;A9K-MPA-2X100GE=;ASR 9000 2-port 100GE Modular Port Adapter
+ASR9K Spares;A9K-100G-WDM-1P-K;ASR 9K 1-port 100G IP+DWDM Starter Kit
+ASR9K Spares;A9K-100G-WDM-1P-U;ASR 9K 1-port 100G IP+DWDM Upgradable  Kit
+ASR9K Spares;A9K-100G-WDM-2P-K;ASR 9K 2-port 100G IP+DWDM Starter Kit
+ASR9K Spares;A9K-4X100GE-SE=;ASR 9000 4-port 100GE LC -SE OTN
+ASR9K Spares;A9K-4X100GE-TR=;ASR 9000 4-port 100GE LC -TR OTN
+ASR9K Spares;A9K-MPA-1X100GE=;ASR 9000 1-port 100GE Modular Port Adapter
+ASR9K Spares;A9K-MPA-2X100GE=;ASR 9000 2-port 100GE Modular Port Adapter
+ASR9K Spares;A9K-RSP880-SE-2P=;2PK ASR 9K Route Switch Processor Service Edge 880G/slot
+ASR9K Spares;A9K-RSP880-TR-2P=;2PK ASR 9K Route Switch Processor Transport 880G/slot
+ASR9K Spares;ASR-9006-SYS=;ASR 9006 DC Chassis Version 2 Spare
+ASR9K Spares;ASR-9010-SYS=;ASR 9010 AC Chassis Version 2 Spare
+ASR9K Spares;ASR-9904=;ASR-9904 2 Line Card Slot DC Chassis
+ASR9K Spares;ASR-9922=;ASR 9922 20 Line Card Slot DC Chassis w/ PEM V2
+C2960P;WS-C2960+24TC-BR=;CE Brazil Catalyst 2960 24 10/100 + 2T/SFP LAN Base
+C2960P;WS-C2960+24PC-BR=;CE Brazil Catalyst 2960 24 10/100 PoE + 2 T/SFP LAN Base
+C2960X;WS-C2960X-48LPS-LB;Catalyst 2960-X 48 GigE PoE 370W, 4 x 1G SFP, LAN Base
+C2960X;WS-C2960X-48FPS-LB;Catalyst 2960-X 48 GigE PoE 740W, 4 x 1G SFP, LAN Base
+C2960X;WS-C2960X-48FPD-LB;Catalyst 2960-X 48 GigE PoE 740W, 2 x 10G SFP+, LAN Base
+C2960X;WS-C2960X-24TS-LB;Catalyst 2960-X 24 GigE, 4 x 1G SFP, LAN Base
+C2960X;WS-C2960X-48LPD-LB;Catalyst 2960-X 48 GigE PoE 370W, 2 x 10G SFP+ LAN Base
+C2960X;WS-C2960X-24PS-BR;Catalyst 2960-X 24 GigE PoE 370W, 4 x 1G SFP, LAN Base
+C2960X;WS-C2960X-48TS-BR;Catalyst 2960-X 48 GigE, 4 x 1G SFP, LAN Base
+C2960X;C2960X-STACK=;Catalyst 2960-X FlexStack Plus Stacking Module optional
+C3850;WS-C3850-24T-E-BR;Cisco Catalyst 3850 24 Port Data IP Services
+C3850;WS-C3850-24T-L-BR;Cisco Catalyst 3850 24 Port Data LAN Base
+C3850;WS-C3850-24T-S-BR;Cisco Catalyst 3850 24 Port Data IP Base
+C3850;WS-C3850-48F-E-BR;Cisco Catalyst 3850 48 Port Full PoE IP Services
+C3850;WS-C3850-48F-L-BR;Cisco Catalyst 3850 48 Port Full PoE LAN Base
+C3850;WS-C3850-48F-S-BR;Cisco Catalyst 3850 48 Port Full PoE IP Base
+C3850;WS-C3850-48T-E-BR;Cisco Catalyst 3850 48 Port Data IP Services
+C3850;WS-C3850-48T-L-BR;Cisco Catalyst 3850 48 Port Data LAN Base
+C3850;WS-C3850-48T-S-BR;Cisco Catalyst 3850 48 Port Data IP Base
+C3850;WS-C3850-24P-E-BR;Cisco Catalyst 3850 24 Port PoE IP Services
+C3850;WS-C3850-24P-L-BR;Cisco Catalyst 3850 24 Port PoE LAN Base
+C3850;WS-C3850-24P-S-BR;Cisco Catalyst 3850 24 Port PoE IP Base
+C3850;WS-C3850-48P-E-BR;Cisco Catalyst 3850 48 Port PoE IP Services
+C3850;WS-C3850-48P-L-BR;Cisco Catalyst 3850 48 Port PoE LAN Base
+C3850;WS-C3850-48P-S-BR;Cisco Catalyst 3850 48 Port PoE IP Base
+C4500;WS-C4503-E;Cat4500 E-Series 3-Slot Chassis, fan, no ps
+C4500;WS-C4503E-S7L+48V+;4503-E Chassis, One WS-X4648-RJ45V+E, Sup7L-E, LAN Base
+C4500;WS-C4506-E;Cat4500 E-Series 6-Slot Chassis, fan, no ps
+C4500;WS-C4506E-S7L+96V+;4506-E Chassis, two WS-X4648-RJ45V+E, Sup7L-E, LAN Base
+C4500;WS-C4507R+E;Catalyst4500E 7 slot chassis for 48Gbps/slot, fan, no ps
+C4500;WS-C4507RE+96V+;WS-C4507R+E Chassis, two WS-X4648-RJ45V+E, Sup7L-E, LAN Base
+C4500;WS-C4510R+E;Catalyst 4500E 10 slot chassis for 48Gbps/slot, fan, no ps
+C4500;WS-C4510RE-S7+96V+;4510R+E Chassis, Two WS-X4748-RJ45V+E, Sup7-E
+C4500;WS-C4510RE-S8+96V+;4510R+E Chassis, Two WS-X4748-RJ45V+E, Sup8-E
+C4500X;WS-C4500X-16SFP+;Catalyst 4500-X 16 Port 10G IP Base, Front-to-Back, No P/S
+C4500X;WS-C4500X-24X-ES;Catalyst 4500-X 24 Port 10G Ent. Services, Frt-to-Bk, No P/S
+C4500X;WS-C4500X-24X-IPB;Catalyst 4500-X 24 Port 10G IP Base, Front-to-Back, No P/S
+C4500X;WS-C4500X-32SFP+;Catalyst 4500-X 32 Port 10G IP Base, Front-to-Back, No P/S
+C4500X;WS-C4500X-40X-ES;Catalyst 4500-X 40 Port 10G Ent. Services, Frt-to-Bk, No P/S
+C4500X;WS-C4500X-F-32SFP+;Catalyst 4500-X 32 Port 10G IP Base, Back-to-Front, No P/S
+C4500X;WS-C4500X-F-16SFP+;Catalyst 4500-X 16 Port 10G IP Base, Back-to-Front, No P/S
+UCSX;HX220C-M4S-BR;Cisco HX220c M4 Hyperflex System Plus 1 Yr Sub
+UCSX;HX220C-M4S-BR;Cisco HX220c M4 Hyperflex System Plus 1 Yr Sub
+UCSX;HX220C-M4S-BR;Cisco HX220c M4 Hyperflex System Plus 1 Yr Sub
+UCSX;HX220C-M4S-BR;Cisco HX220c M4 Hyperflex System Plus 1 Yr Sub
+UCSX;HX240C-M4SX-BR;Cisco HX240c M4 Hyperflex System Plus 1 Yr Sub
+UCSX;HX240C-M4SX-BR;Cisco HX240c M4 Hyperflex System Plus 1 Yr Sub
+UCSX;HX240C-M4SX-BR;Cisco HX240c M4 Hyperflex System Plus 1 Yr Sub
+UCSX;HX240C-M4SX-BR;Cisco HX240c M4 Hyperflex System Plus 1 Yr Sub
+UCSX;HX-FI-6248UP-BR;UCS 6248UP 1RU Fabric Int/No PSU/32 UP/ 12p LIC
+UCSX;HX-FI-6296UP-BR;UCS 6296UP 2RU Fabric Int/No PSU/48 UP/ 18p LIC
+UCSX;HX220C-M4S-BR;UCS C240 M4 LFF 12 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expdr
+UCSX;HX220C-M4S-BR;UCS C240 M4 LFF 12 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expdr
+UCSX;HX220C-M4S-BR;UCS C240 M4 LFF 12 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expdr
+UCSX;HX220C-M4S-BR;UCS C240 M4 LFF 12 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expdr
+UCSX;HX240C-M4SX-BR;UCS C240 M4 LFF 12 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expdr
+UCSX;HX240C-M4SX-BR;UCS C240 M4 LFF 12 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expdr
+UCSX;HX240C-M4SX-BR;UCS C240 M4 LFF 12 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expdr
+UCSX;HX240C-M4SX-BR;UCS C240 M4 LFF 12 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expdr
+ICV;HWIC-1T=;1-Port Serial WAN Interface Card
+ICV;PVDM3-16=;16-channel high-density voice DSP module SPARE
+4300ISR;ISR4321BR/K9;Cisco ISR 4321 (2GE,2NIM,4G FLASH,4G DRAM,IPB)
+4300ISR;ISR4321BR/K9;Cisco ISR 4321 (2GE,2NIM,4G FLASH,4G DRAM,IPB)
+4300ISR;ISR4321BR-V/K9;Cisco ISR 4321 Bundle, w/UC License, CUBE-10
+4300ISR;ISR4321BR-V/K9;Cisco ISR 4321 Bundle, w/UC License, CUBE-10
+4300ISR;ISR4331BR/K9;Cisco ISR 4331 (3GE,2NIM,1SM,4G FLASH,4G DRAM,IPB)
+4300ISR;ISR4331BR/K9;Cisco ISR 4331 (3GE,2NIM,1SM,4G FLASH,4G DRAM,IPB)
+4300ISR;ISR4331BR-V/K9;Cisco ISR 4331 UC Bundle, PVDM4-32, UC License, CUBEE10
+4300ISR;ISR4331BR-V/K9;Cisco ISR 4331 UC Bundle, PVDM4-32, UC License, CUBEE10
+4300ISR;NIM-ES2-4=;4-port Layer 2 GE Switch Network Interface Module
+4300ISR;NIM-ES2-8=;8-port Layer 2 GE Switch Network Interface Module
+4300ISR;NIM-ES2-8-P=;8-port POE/POE+ Layer 2 GE Switch Network Interface Module
+4300ISR;NIM-1MFT-T1/E1=;1 port Multiflex Trunk Voice/Clear-channel Data T1/E1 Module
+4300ISR;NIM-1T=;1-Port Serial WAN Interface card
+4300ISR;NIM-2T=;2-Port Serial WAN Interface card
+4300ISR;NIM-4G-LTE-GA=;4G LTE NIM for Global (Europe, Australia & New Zealand)
+4300ISR;NIM-2FXO=;2-port Network Interface Module - FXO (Universal)
+4300ISR;NIM-4FXO=;4-port Network Interface Module - FXO (Universal)
+4300ISR;NIM-2FXS=;2-Port Network Interface Module - FXS, FXS-E and DID
+4300ISR;NIM-4FXS=;4-Port Network Interface Module - FXS, FXS-E and DID
+4300ISR;PVDM4-32=;32-channel DSP module
+4300ISR;PVDM4-64=;64-channel DSP module
+4300ISR;PVDM4-128=;128-channel DSP module
+N5K;N5K-C5548UP-B-S32;N5548UP Storage Solutions Bundle, 32 port storage serv Licen
+N5K;N5K-C5548UP-FA;Nexus 5548 UP Chassis, 32 10GbE Ports, 2 PS, 2 Fans
+N5K;N5K-C5596UP-FA;Nexus 5596UP 2RU Chassis, 2PS, 4 Fans, 48 Fixed 10GE Ports
+N5K;N5K-C56128P;Nexus 56128P 2RU Chassis, 48x10G SFP+, 4x40G QSFP+
+N5K;N5K-C5624Q;Nexus 5624Q VXLAN 1RU Chassis, 12x40G QSFP+
+N5K;N5K-C5672UP;Nexus 5672UP 1RU, 32x10G SFP+, 16pxUP SFP+,  6x40G QSFP+
+N5K;N5K-C5696Q;Nexus 5696Q Chassis  6PS,4 FAN VxLAN
+N5K;N5K-C5648Q;Nexus 5648Q VXLAN 2RU Chassis, 24x40G QSFP+
+N5K;N5K-C5672UP-16G;Nexus 5672UP 1RU, 24x10G SFP+, 24pxUP SFP+,  6x40G QSFP+
+N5K;N5624-B-24Q;"Nexus 5624Q chassis 24x40GE Ports/FCoE Bundle; 2PS,3 FAN"
+N5K;N5624-B-24Q;"Nexus 5624Q chassis 24x40GE Ports/FCoE Bundle; 2PS,3 FAN"
+N5K;N5K-C5648Q;Nexus 5648Q VXLAN 2RU Chassis, 24x40G QSFP+
+N5K;N5K-C5672UP-16G;Nexus 5672UP 1RU, 24x10G SFP+, 24pxUP SFP+,  6x40G QSFP+
+N7K;N77-C7702;Nexus 7700 2 Slot Chassis, No Power Supplies, Fans included
+N7K;N77-C7706;Nexus 7700 6 Slot Chassis, No Power Supplies, Fans included
+N7K;N77-C7710;Nexus 7700 10 Slot Chassis, No Power Supplies, Fans included
+N7K;N77-C7718;Nexus 7700 18 Slot chassis, No Power Supplies, Fans Included
+N7K;N7K-C7004;4 Slot Chassis, No Power Supply, Includes Fans
+N7K;N7K-C7009;9 Slot Chassis, No Power Supply, Includes Fans
+N7K;N7K-C7010;10 Slot Chassis, No Power Supplies, Fans Included
+N7K;N7K-C7018;18 Slot Chassis, No Power Supplies, Fans Included
+N7K;N77-C7702;Nexus 7700 2 Slot Chassis, No Power Supplies, Fans included
+Security;ASA5506-K8;ASA 5506-X with FirePOWER services, 8GE, AC, DES
+Security;ASA5506-K9;ASA 5506-X with FirePOWER services, 8GE, AC, 3DES/AES
+Security;ASA5506-SEC-BUN-K8;ASA 5506-X with FirePOWER services and Sec Plus License
+Security;ASA5506-SEC-BUN-K9;ASA 5506 with FirePOWER services and Sec Plus license
+Security;ASA5506H-SP-BUN-K8;ASA 5506H-X SEC PLUS Bundle
+Security;ASA5506H-SP-BUN-K9;ASA 5506H-X SEC PLUS Bundle
+Security;ASA5508-K8;ASA 5508-X with FirePOWER services, 8GE, AC, DES
+Security;ASA5508-K9;ASA 5508-X with FirePOWER services, 8GE, AC, 3DES/AES
+Security;ASA5516-FPWR-K8;ASA 5516-X with FirePOWER services, 8GE, AC, DES
+Security;ASA5516-FPWR-K9;ASA 5516-X with FirePOWER services, 8GE, AC, 3DES/AES
+Security;FPR4110-ASA-K9;Cisco Firepower 4110 ASA Appliance, 1U, 2 x NetMod Bays
+Security;FPR4110-NGFW-K9;Cisco Firepower 4110 NGFW Appliance, 1U, 2 x NetMod Bays
+Security;FPR4120-ASA-K9;Cisco Firepower 4120 ASA Appliance, 1U, 2 x NetMod Bays
+Security;FPR4120-NGFW-K9;Cisco Firepower 4120 NGFW Appliance, 1U, 2 x NetMod Bays
+Security;FPR4140-ASA-K9;Cisco Firepower 4140 ASA Appliance, 1U, 2 x NetMod Bays
+Security;FPR4140-NGFW-K9;Cisco Firepower 4140 NGFW Appliance, 1U, 2 x NetMod Bays
+Security;FPR4110-AMP-K9;Cisco Firepower 4110 AMP Appliance, 1U, 2 x NetMod Bays
+Security;FPR4110-NGIPS-K9;Cisco Firepower 4110 NGIPS Appliance, 1U, 2 x NetMod Bays
+Security;FPR4120-AMP-K9;Cisco Firepower 4120 AMP Appliance, 1U, 2 x NetMod Bays
+Security;FPR4120-NGIPS-K9;Cisco Firepower 4120 NGIPS Appliance, 1U, 2 x NetMod Bays
+Security;FPR4140-AMP-K9;Cisco Firepower 4140 AMP Appliance, 1U, 2 x NetMod Bays
+Security;FPR4140-NGIPS-K9;Cisco Firepower 4140 NGIPS Appliance, 1U, 2 x NetMod Bays
+Security;FPR4150-AMP-K9;Cisco Firepower 4150 AMP Appliance, 1U, 2 x NetMod Bays
+Security;FPR4150-ASA-K9;Cisco Firepower 4150 ASA Appliance, 1U, 2 x NetMod Bays
+Security;FPR4150-NGFW-K9;Cisco Firepower 4150 NGFW Appliance, 1U, 2 x NetMod Bays
+Security;FPR4150-NGIPS-K9;Cisco Firepower 4150 NGIPS Appliance, 1U, 2 x NetMod Bays
+Security;FPR-C9300-AC;Firepower 9300 Chassis for AC Power Supply, 0 PSU/4 fans
+Security;FPR-C9300-DC;Firepower 9300 Chassis for DC Power Supply, 2 PSU/4 fans
+Security;ASA5506-K8;ASA 5506-X with FirePOWER services, 8GE, AC, DES
+Security;ASA5506-K9;ASA 5506-X with FirePOWER services, 8GE, AC, 3DES/AES
+Security;ASA5506-SEC-BUN-K8;ASA 5506-X with FirePOWER services and Sec Plus License
+Security;ASA5506-SEC-BUN-K9;ASA 5506 with FirePOWER services and Sec Plus license
+Security;ASA5506H-SP-BUN-K8;ASA 5506H-X SEC PLUS Bundle
+Security;ASA5506H-SP-BUN-K9;ASA 5506H-X SEC PLUS Bundle
+Security;ASA5508-K8;ASA 5508-X with FirePOWER services, 8GE, AC, DES
+Security;ASA5508-K9;ASA 5508-X with FirePOWER services, 8GE, AC, 3DES/AES
+Security;ASA5516-FPWR-K8;ASA 5516-X with FirePOWER services, 8GE, AC, DES
+Security;ASA5516-FPWR-K9;ASA 5516-X with FirePOWER services, 8GE, AC, 3DES/AES
+Security;FPR-C9300-AC;Firepower 9300 Chassis for AC Power Supply, 0 PSU/4 fans
+Security;FPR-C9300-DC;Firepower 9300 Chassis for DC Power Supply, 2 PSU/4 fans
+Security;FPR4110-AMP-K9;Cisco Firepower 4110 AMP Appliance, 1U, 2 x NetMod Bays
+Security;FPR4110-NGIPS-K9;Cisco Firepower 4110 NGIPS Appliance, 1U, 2 x NetMod Bays
+Security;FPR4120-AMP-K9;Cisco Firepower 4120 AMP Appliance, 1U, 2 x NetMod Bays
+Security;FPR4120-NGIPS-K9;Cisco Firepower 4120 NGIPS Appliance, 1U, 2 x NetMod Bays
+Security;FPR4140-AMP-K9;Cisco Firepower 4140 AMP Appliance, 1U, 2 x NetMod Bays
+Security;FPR4140-NGIPS-K9;Cisco Firepower 4140 NGIPS Appliance, 1U, 2 x NetMod Bays
+Security;FPR4150-AMP-K9;Cisco Firepower 4150 AMP Appliance, 1U, 2 x NetMod Bays
+Security;FPR4150-ASA-K9;Cisco Firepower 4150 ASA Appliance, 1U, 2 x NetMod Bays
+Security;FPR4150-NGFW-K9;Cisco Firepower 4150 NGFW Appliance, 1U, 2 x NetMod Bays
+Security;FPR4150-NGIPS-K9;Cisco Firepower 4150 NGIPS Appliance, 1U, 2 x NetMod Bays
+UCSB;UCSB-B200-M4-BR;UCS B200 M4 w/o CPU, mem, drive bays, HDD, mezz
+UCSB;UCSB-B200-M4-BR;UCS B200 M4 w/o CPU, mem, drive bays, HDD, mezz
+UCSB;UCSB-B200-M4-BR;UCS B200 M4 w/o CPU, mem, drive bays, HDD, mezz
+UCSB;UCSB-B200-M4-BR;UCS B200 M4 w/o CPU, mem, drive bays, HDD, mezz
+UCSB;UCSB-B200-M4-U-BR;UCS B200 M4 w/o CPU, mem, drive bays, HDD, mezz (UPG)
+UCSB;UCSB-B200-M4-U-BR;UCS B200 M4 w/o CPU, mem, drive bays, HDD, mezz (UPG)
+UCSB;UCSB-B200-M4-U-BR;UCS B200 M4 w/o CPU, mem, drive bays, HDD, mezz (UPG)
+UCSB;UCSB-B200-M4-U-BR;UCS B200 M4 w/o CPU, mem, drive bays, HDD, mezz (UPG)
+UCSB;UCSB-B420-M4-U-BR;UCS B420 M4 Blade Server w/o CPU, memory, HDD, mLOM (UPG)
+UCSB;UCSB-B420-M4-U-BR;UCS B420 M4 Blade Server w/o CPU, memory, HDD, mLOM (UPG)
+UCSB;UCSB-B420-M4-U-BR;UCS B420 M4 Blade Server w/o CPU, memory, HDD, mLOM (UPG)
+UCSB;UCSB-B420-M4-U-BR;UCS B420 M4 Blade Server w/o CPU, memory, HDD, mLOM (UPG)
+UCSB;UCSB-B420-M4-BR;UCS B420 M4 Blade Server w/o CPU, memory, HDD, mLOM
+UCSB;UCSB-B420-M4-BR;UCS B420 M4 Blade Server w/o CPU, memory, HDD, mLOM
+UCSB;UCSB-B420-M4-BR;UCS B420 M4 Blade Server w/o CPU, memory, HDD, mLOM
+UCSB;UCSB-B420-M4-BR;UCS B420 M4 Blade Server w/o CPU, memory, HDD, mLOM
+UCSB;UCS-FI-6248UP-U-BR;UCS 6248UP 1RU Fabric Int/No PSU/32 UP/ 12p LIC
+UCSB;UCS-FI-6296UP-U-BR;UCS 6296UP 2RU Fabric Int/No PSU/48 UP/ 18p LIC
+UCSC;UCSC-C220-M4L-BR;UCS C220 M4 LFF w/o CPU, mem, HD, PCIe, PSU, rail kit
+UCSC;UCSC-C220-M4L-BR;UCS C220 M4 LFF w/o CPU, mem, HD, PCIe, PSU, rail kit
+UCSC;UCSC-C220-M4L-BR;UCS C220 M4 LFF w/o CPU, mem, HD, PCIe, PSU, rail kit
+UCSC;UCSC-C220-M4L-BR;UCS C220 M4 LFF w/o CPU, mem, HD, PCIe, PSU, rail kit
+UCSC;UCSC-C220-M4S-BR;UCS C220 M4 SFF w/o CPU, mem, HD, PCIe, PSU, rail kit
+UCSC;UCSC-C220-M4S-BR;UCS C220 M4 SFF w/o CPU, mem, HD, PCIe, PSU, rail kit
+UCSC;UCSC-C220-M4S-BR;UCS C220 M4 SFF w/o CPU, mem, HD, PCIe, PSU, rail kit
+UCSC;UCSC-C220-M4S-BR;UCS C220 M4 SFF w/o CPU, mem, HD, PCIe, PSU, rail kit
+UCSC;UCSC-C240-M4L-BR;UCS C240 M4 LFF 12 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expdr
+UCSC;UCSC-C240-M4L-BR;UCS C240 M4 LFF 12 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expdr
+UCSC;UCSC-C240-M4L-BR;UCS C240 M4 LFF 12 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expdr
+UCSC;UCSC-C240-M4L-BR;UCS C240 M4 LFF 12 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expdr
+UCSC;UCSC-C240-M4S-BR;UCS C240 M4 SFF 8 HD w/o expdr,CPU,mem,HD,PCIe,PS,railkt
+UCSC;UCSC-C240-M4S-BR;UCS C240 M4 SFF 8 HD w/o expdr,CPU,mem,HD,PCIe,PS,railkt
+UCSC;UCSC-C240-M4S-BR;UCS C240 M4 SFF 8 HD w/o expdr,CPU,mem,HD,PCIe,PS,railkt
+UCSC;UCSC-C240-M4S-BR;UCS C240 M4 SFF 8 HD w/o expdr,CPU,mem,HD,PCIe,PS,railkt
+UCSC;UCSC-C240-M4SX-BR;UCS C240 M4 SFF 24 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expndr
+UCSC;UCSC-C240-M4SX-BR;UCS C240 M4 SFF 24 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expndr
+UCSC;UCSC-C240-M4SX-BR;UCS C240 M4 SFF 24 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expndr
+UCSC;UCSC-C240-M4SX-BR;UCS C240 M4 SFF 24 HD w/o CPU,mem,HD,PCIe,PS,railkt w/expndr
+UCSC;UCS-BR-C240M4-E1;Brazil- UCS C240M4X 24HD w/2xE52630v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-E1;Brazil- UCS C240M4X 24HD w/2xE52630v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-E1;Brazil- UCS C240M4X 24HD w/2xE52630v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-E1;Brazil- UCS C240M4X 24HD w/2xE52630v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-E2;Brazil- UCS C240M4X 24HD w/2xE52640v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-E2;Brazil- UCS C240M4X 24HD w/2xE52640v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-E2;Brazil- UCS C240M4X 24HD w/2xE52640v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-E2;Brazil- UCS C240M4X 24HD w/2xE52640v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-P1;Brazil- UCS C240M4X 24HD w/2xE52680v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-P1;Brazil- UCS C240M4X 24HD w/2xE52680v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-P1;Brazil- UCS C240M4X 24HD w/2xE52680v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-P1;Brazil- UCS C240M4X 24HD w/2xE52680v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-V1;Brazil- UCS C240M4X 24HD w/2xE52650v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-V1;Brazil- UCS C240M4X 24HD w/2xE52650v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-V1;Brazil- UCS C240M4X 24HD w/2xE52650v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-V1;Brazil- UCS C240M4X 24HD w/2xE52650v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-V2;Brazil- UCS C240M4X 24HD w/2xE52660v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-V2;Brazil- UCS C240M4X 24HD w/2xE52660v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-V2;Brazil- UCS C240M4X 24HD w/2xE52660v4,4x32GB,MRAID,VIC1227
+UCSC;UCS-BR-C240M4-V2;Brazil- UCS C240M4X 24HD w/2xE52660v4,4x32GB,MRAID,VIC1227
+N3000;N3K-C3048TP-1GE;Nexus 3048TP-1GE 1RU 48 x 10/100/1000 and 4 x 10GE ports
+N3000;N3K-C3172PQ-10GE;Nexus 3172P 48 x SFP+ and 6 QSFP+ ports
+N3000;N3K-C3172TQ-32T;Nexus 3172-T, 32 x 10GBase-T and  6 QSFP+ ports
+N3000;N3K-C3172PQ-XL;Nexus 3172PQ, 48 x SFP+ & 6 QSFP+ ports, extended memory
+N3000;N3K-C3172TQ-10GT;Nexus 3172T 48 x 1/10GBase-T and 6 QSFP+ ports
+N3000;N3K-C3132Q-40GX;Cisco Nexus 3132Q-X, 32 QSFP+ ports, low power, latency
+N3000;N3K-C3172TQ-XL;Nexus 3172TQ, 48 x 10GT & 6 QSFP+ ports, extended memory
+N3000;N3K-C3264Q;Nexus 3264Q Switch with 64 ports of QSFP
+N3000;N3K-C3232C;Nexus 3232C 32 x 100G
+N3000;N3K-C31128PQ-10GE;Nexus 31128PQ switch 96p SFP + 8p QSFP
+N3000;N3K-C3132Q-XL;Nexus 3132Q, 32 x QSFP+ ports, extended memory
+N3000;N3K-C3164Q-40GE;Cisco Nexus 3164, 64 QSFP+ ports, 2RU
+N3000;N3K-C31108TC-V;Nexus 31108-VXLAN, 48 x 10GT and  6C/6Q QSFP ports
+N3000;N3K-C3132Q-V;Nexus 3132 VXLAN, 32x40G QSFP+ Ports
+N3000;N3K-C31108PC-V;Nexus 31108-VXLAN, 48 x SFP+ and  6C/6Q QSFP ports
+N3000;N3K-C3524P-10GX;Nexus 3524x, 24 10G Ports
+N3000;N3K-C3548P-10GX;Nexus 3548-X 48 SFP+ ports, Enhanced
+N9300;N9K-C93180YC-EX;Nexus 9300 with 48p 10/25G SFP+ and 6p 100G QSFP28
+N9300;N9K-C93108TC-EX;Nexus 9300 with 48p 10G BASE-T and 6p 100G QSFP28
+N9300;N9K-C93180LC-EX;Nexus 9300 Series, 24p 40/50G and 6p 100G
+N9500;N9K-C9504;Nexus 9504 Chassis with 4 linecard slots
+N9500;N9K-C9508;Nexus 9508 Chassis with 8 linecard slots
+N9500;N9K-C9516;Nexus 9516 Chassis with 16 linecard slots
+N9500;N9K-C93180YC-FX;Nexus 9300 with 48p 10/25G SFP+, 6p 100G QSFP, MACsec, UP
+N9500;N9K-C93108TC-FX;Nexus 9300 with 48p 10G-T, 6p 100G QSFP, MACsec, UP
+ASR900;ASR-907;ASR 907 Series Router Chassis
+ASR920;ASR-920-24SZ-M;Cisco ASR920 Series - 24GE Fiber and 4-10GE : Modular PSU
+ASR920;ASR-920-24TZ-M;Cisco ASR920 Series - 24GE Copper and 4-10GE : Modular PSU
+ASR920;ASR-920-4SZ-D;Cisco ASR920 Series - 2GE and 4-10GE - DC model
+ASR920;ASR-920-12SZ-IM;Cisco ASR920 Series - 12GE and 4-10GE, 1 IM slot
+ASR920;ASR-920-12CZ-A;Cisco ASR920 Series - 12GE and 2-10GE - AC model
+ASR920;ASR-920-12CZ-D;Cisco ASR920 Series - 12GE and 2-10GE - DC model
+ASR920;ASR-920-4SZ-A;Cisco ASR920 Series - 2GE and 4-10GE - AC model
+ASR920;ASR-920-24SZ-IM;Cisco ASR920 Series - 24GE and 4-10GE : Modular PSU and IM
+ASR920;ASR-920-10SZ-PD;Cisco ASR920 Series :10GE & 2-10GE Passively Cooled DC Model
+ME3400;ME-3400EG-12CS-M;ME3400E 12Combo + 4 SFPs
+ME3400;ME-3400EG-2CS-A;ME3400E 2Combo + 2 SFP
+ME3400;ME-3400E-24TS-M;ME3400E Ethernet Access switches 24 10/100 + 2 Combo
+ASR1000;C1-ASR1001-X/K9;Cisco ONE - ASR1001-X
+ASR1000;C1-ASR1002-HX/K9;Cisco ONE - ASR1002-HX
+ASR1000;C1-ASR1002-X/K9;Cisco ONE - ASR1002-X
+ASR1000;C1-ASR1004/K9;Cisco ONE - ASR1004
+ASR1000;C1-ASR1006/K9;Cisco ONE - ASR1006
+ASR1000;C1-ASR1006X/K9;Cisco ONE - ASR1006-X
+ASR1000;C1-ASR1009X/K9;Cisco ONE - ASR1009-X
+ASR1000;C1-ASR1013/K9;Cisco ONE - ASR1013
+4300ISR;C1-CISCO4351/K9;Cisco ONE ISR 4351 (3GE,3NIM,2SM,4G FLASH,4G DRAM,IPB)
+4400ISR;C1-CISCO4431/K9;Cisco ONE ISR 4431 (4GE,3NIM,8G FLASH,4G DRAM,IPB)
+4400ISR;C1-CISCO4451/K9;Cisco ONE ISR 4451 (4GE,3NIM,2SM,8G FLASH,4G DRAM, IPB)
+N9500;C1-N9K-C9504;Cisco ONE Nexus 9504 Chassis with 4 linecard slots
+N9500;C1-N9K-C9508;Cisco ONE Nexus 9508 Chassis with 8 linecard slots
+N9500;C1-N9K-C9516;Cisco ONE Nexus 9516 Chassis with 16 linecard slots
+N9300;C1-N9K-C93108TC-FX;Cisco ONE Nexus 9300 with 48p 10G-T, 6p 100G QSFP, MACsec,UP
+N9300;C1-N9K-C93180YC-FX;Cisco ONE Nexus 9300 48p 10/25G SFP+, 6p 100G QSFP,MACsec
+N9300;C1-N9K-C93108TC-EX;Cisco ONE Nexus 9300 with 48p 10G BASE-T and 6p 100G QSFP28
+N9300;C1-N9K-C93180YC-EX;Cisco ONE Nexus 9300 with 48p 10/25G SFP+ and 6p 100G QSFP28
+N9300;C1-N9K-C93180LC-EX;Cisco ONE Nexus 9300 Series, 24p 40/50G and 6p 100G
+N5000;C1-N5696Q;Cisco ONE Nexus 5696Q Chassis 6PS,4 FAN VxLAN
+N5000;C1-N5624Q;Cisco ONE Nexus 5624Q VXLAN 1RU Chassis, 12x40G QSFP+
+N5000;C1-N5K-C5548UP-FA;Cisco One Nexus 5548 UP Chassis,32 10GbE Ports, 2 PS, 2 Fans
+N5000;C1-N5596T-FA;Cisco ONE Nexus 5596T 2RU,2PS/4Fans,32x10GT/16xSFP+Fixed
+N5000;C1-N5K-C5596UP-FA;Cisco One Nexus 5596UP 2RU,2PS,4 Fans,48 Fixed 10GEPorts
+N5000;C1-N5K-C5672UP;Cisco OneNexus5672UP 1RU,32x10G SFP+,16pxUP SFP+,6x40G QSFP+
+N5000;C1-N5K-C56128P;Cisco One Nexus 56128P 2RU Chassis,48x10G SFP+,4x40G QSFP+
+N5000;C1-N5K-C5648Q;Cisco ONE Nexus 5648Q VXLAN 2RU Chassis, 24x40G QSFP+
+N7000;C1-N7018;Cisco ONE Nexus 7018 Chassis, No Power Supplies, Fans Incl
+N7000;C1-N7702;Cisco ONE Nexus 7700 2 Slot Chassis NoPwrSupplies Fans incl
+N7000;C1-N7718;Cisco ONE Nexus 7718 slot chassis, NoPowSupp, Fans Included
+C4500;C1-C4503-E;Cat4500 E-Series 3-Slot Chassis, fan, no ps
+C4500;C1-C4506-E;Cisco ONE Cat4500 E-Series 6-Slot Chassis, fan, no ps
+C4500;C1-C4507RE+96V+;C ONE WS-C4507R+EChassis 2x WS-X4648-RJ45V+E Sup7L-E LANBase
+C4500;C1-C4507RE-DNA;Cisco ONE Sup8-E DNA Bundle for 7-slot with 2 x mGig
+C4500;C1-C4507R+E;Cisco ONE Catalyst4500E 7 slot chassis 48Gbps/slot,fan,no ps
+C4500;C1-C4510RE-S8+96V+;Cisco ONE 4510R+E Chassis, Two WS-X4748-RJ45V+E, Sup8-E
+C4500;C1-C4510R+E;Cisco ONE Catalyst 4500E 10 slot chs 48Gbps/slot,fan,no ps
+C4500X;C1-C4500X-16SFP+;Cisco ONE Catalyst 4500-X 16 Port 10G IP Base, Front-to-Back
+C4500X;C1-C4500X-F-16SFP+;Cisco ONE Catalyst 4500-X 16 Port 10G IP Base, Back-to-Front
+C4500X;C1-C4500X-32SFP+;Cisco ONE Catalyst 4500-X 32 Port 10G IP Base, Front-to-Back
+C4500X;C1-C4500X-F-32SFP+;Cisco ONE Catalyst 4500-X 32 Port 10G IP Base, Back-to-Front
+C4500X;C1-C4500X-24X-IPB;Cisco ONE Catalyst 4500-X 24 Port 10G IP Base, Front-to-Back
+N3000;C1-N3K-C31108PC-V;Cisco ONE Nexus 31108-VXLAN, 48 x SFP+ and 6C/6Q QSFP ports
+N3000;C1-N3K-C31108TC-V;Cisco ONE Nexus 31108-VXLAN, 48 x 10GT and 6C/6Q QSFP ports
+N3000;C1-N3K-C3132Q-V;Cisco ONE Nexus 3132 VXLAN, 32x40G QSFP+ Ports
+N3000;C1-N3K-C3132Q-40GX;Cisco ONE Nexus 3132Q-X, 32 QSFP+ ports, low power, latency
+N3000;C1-N3K-C3172TQ-XL;Cisco ONE Nexus 3172TQ,48x10GT & 6 QSFP+ ports, extended mem
+N3000;C1-N3K-C3172PQ-XL;Cisco ONE Nexus 3172PQ,48xSFP+ & 6 QSFP+ ports, extended mem
+N3000;C1-N3K-C3132Q-XL;Cisco ONE Nexus 3132Q, 32 x QSFP+ ports, extended memory
+N3000;C1-N3K-C3232C;Cisco ONE Nexus 3232C 32 x 100G
+N3000;C1-N3K-C3264Q;Cisco ONE Nexus 3264Q Switch with 64 ports of QSFP
+N3000;C1-N3K-C3172PQ;Cisco ONE Nexus 3172P 48 x SFP+ and 6 QSFP+ ports
+N3000;C1-N3K-C3172TQ;Cisco ONE Nexus 3172T 48 x 1/10GBase-T and 6 QSFP+ ports
+N3000;C1-N3K-C3132Q;Cisco ONE Nexus 3132Q 32 x QSFP+ and 4 SFP+ ports
+N3000;C1-N3K-C3164Q;Cisco ONE Nexus 3164, 64 QSFP+ ports, 2RU
+N3000;C1-N3K-C3048TP;Cisco ONE Nexus 3048TP-1GE 1RU 48x10/100/1K and 4x10GE ports
+N3000;C1-N3K-C3548P;Cisco ONE Nexus 3548, 48 SFP+ ports
+N3000;C1-N3K-C3548X;Cisco ONE Nexus 3548X, 48 SFP+ ports
+N3000;C1-N3K-C3524X;Cisco ONE Nexus 3524X, 24 SFP+ ports
+UCSB;UCSB-B200-M5-U-BR;UCS B200 M5 w/o CPU, mem, drive bays, HDD, mezz (UPG)
+UCSC;UCSC-C220-M5SX-BR;UCS C220 M5 SFF 10 HD w/o CPU, mem, HD, PCIe, PSU
+UCSC;UCSC-C240-M5SX-BR;UCS C240 M5 24 SFF + 2 rear drives w/o CPU,mem,HD,PCIe,PS
+UCMBE4;BE4SBR-V-K9;Cisco Business Edition 4000 Appliance (Brazil only)
+4300ISR;ISR4351-AX/K9;Cisco ISR 4351 AX Bundle w/ APP,SEC lic
+4300ISR;ISR4351-AXV/K9;#N/A
+4300ISR;ISR4351-SEC/K9;Cisco ISR 4351 Sec bundle w/SEC license
+4300ISR;ISR4351-V/K9;#N/A
+4300ISR;ISR4351-VSEC/K9;#N/A
+4300ISR;ISR4351/K9;Cisco ISR 4351 (3GE,3NIM,2SM,4G FLASH,4G DRAM,IPB)
+4400ISR;ISR4431-AX/K9;Cisco ISR 4431 AX Bundle with APP and SEC license
+4400ISR;ISR4431-AXV/K9;#N/A
+4400ISR;ISR4431-SEC/K9;Cisco ISR 4431 Sec bundle w/SEC license
+4400ISR;ISR4431-V/K9;#N/A
+4400ISR;ISR4431-VSEC/K9;#N/A
+4400ISR;ISR4431/K9;Cisco ISR 4431 (4GE,3NIM,8G FLASH,4G DRAM,IPB)
+4400ISR;ISR4451-X-AX/K9;Cisco ISR 4451 AX Bundle with APP and SEC license
+4400ISR;ISR4451-X-AXV/K9;#N/A
+4400ISR;ISR4451-X-SEC/K9;Cisco ISR 4451 Sec Bundle, w/SEC license
+4400ISR;ISR4451-X-V/K9;#N/A
+4400ISR;ISR4451-X-VSEC/K9;#N/A
+4400ISR;ISR4451-X/K9;Cisco ISR 4451 (4GE,3NIM,2SM,8G FLASH,4G DRAM)
+UCSC;UCSC-C220-M5L-BR;UCS C220 M5 LFF w/o CPU, mem, HD, PCIe, PSU
+UCSC;UCSC-C240-M5L-BR;UCS C240 M5 12 LFF + 2 rear drives w/o CPU,mem,HD,PCIe,PS
+C9300;C9300-24P-A;Catalyst 9300 24-port PoE+, Network Advantage
+C9300;C9300-24P-E;Catalyst 9300 24-port PoE+, Network Essentials
+C9300;C9300-48P-A;Catalyst 9300 48-port PoE+, Network Advantage
+C9300;C9300-48P-E;Catalyst 9300 48-port PoE+, Network Essentials
+C9300;C9300-24T-A;Catalyst 9300 24-port data only, Network Advantage
+C9300;C9300-24T-E;Catalyst 9300 24-port data only, Network Essentials
+C9300;C9300-48T-A;Catalyst 9300 48-port data only, Network Advantage
+C9300;C9300-48T-E;Catalyst 9300 48-port data only, Network Essentials
+C9400;C9404R;Not launched
+C9400;C9407R;#N/A
+C9400;C9410R;#N/A
+C9400;C9407R-96U-BNDL-A;#N/A
+C9400;C9407R-96U-BNDL-E;#N/A
+C9400;C9410R-96U-BNDL-A;#N/A
+C9400;C9410R-96U-BNDL-E;#N/A
+C9400;C9500-12Q-A;Catalyst 9500 12-port 40G switch, Advantage
+C9400;C9500-12Q-E;Catalyst 9500 12-port 40G switch, Network Essentials
+C9400;C9500-24Q-A;Catalyst 9500 24-port 40G switch, Network Advantage
+C9400;C9500-24Q-E;Catalyst 9500 24-port 40G switch, Network Essentials
+C9400;C9500-40X-A;Catalyst 9500 40-port 10Gig switch, Network Advantage
+C9400;C9500-40X-E;Catalyst 9500 40-port 10Gig switch, Network Essentials
+C9400;C9500-48X-A;Catalyst 9500 48-port 10G bundle, Network Advantage
+C9400;C9500-48X-E;Catalyst 9500 48-port 10G Bundle, Network Essentials
+UCSHX;HX-FI-6332-16UP;#N/A
+UCSB;UCS-FI-6332-16UP-U;#N/A
+ASR9000;A9K-8HG-200G-SE=;#N/A
+ASR9000;A9K-8HG-200G-TR=;#N/A
+ASR9000;A9K-8HG-2P-SE-OTN=;#N/A
+ASR9000;A9K-8HG-2P-TR-OTN=;#N/A
+ASR9000;A9K-8HG-400G-SE=;#N/A
+ASR9000;A9K-8HG-400G-TR=;#N/A
+ASR9000;A9K-8X100G-LB-SE=;#N/A
+ASR9000;A9K-8X100G-LB-TR=;#N/A
+ASR9000;ASR-9006-AC-V2=;ASR 9006 AC Chassis Version 2 Spare
+ASR9000;ASR-9006-DC-V2=;ASR 9006 DC Chassis Version 2 Spare
+ASR9000;ASR-9010-AC-V2=;ASR 9010 AC Chassis Version 2 Spare
+ASR9000;ASR-9010-DC-V2=;ASR 9010 DC Chassis Version 2 Spare
+ASR9000;ASR-9904-DC=;ASR-9904 2 Line Card Slot DC Chassis
+ASR9000;ASR-9912=;ASR 9912 10 Line Card Slot Chassis Spare
+ASR9000;ASR-9912-AC=;ASR 9912 10 Line Card Slot AC Chassis V2
+ASR9000;ASR-9912-DC=;ASR 9912 10 Line Card Slot DC Chassis V2
+ASR9000;ASR-9922-AC=;ASR 9922 20 Line Card Slot AC Chassis w/ PEM V2
+ASR9000;ASR-9922-DC=;ASR 9922 20 Line Card Slot DC Chassis w/ PEM V2
+C4500;WS-450096V;#N/A
+C4500;WS-C4506E-S7L+96;#N/A
+N5000;N5696-B-24Q;"Nexus 5696Q chassis 24x40GE Ports/FCoE Bundle; 6PS,4 FAN"
+ASAMID;ASA5516;#N/A
+ASALOW;ASA5508;#N/A
+ASALOW;ASA5506;#N/A
+N3000;N3K-C3172-FA;#N/A
+N3000;N3K-C3172;#N/A
+N3000;N3K-C3548;#N/A
+N3000;N3K-C3132Q;#N/A
+N3000;N3K-C3048;#N/A
+N3000;N3K-C3548P;#N/A
+N3000;N3K-C3524P;#N/A
+N3000;N3K-C3048TP;#N/A
+N3000;N3K-C3064PQ;#N/A
+N3000;N3K-C3064TQ;#N/A
+N3000;N3K-C3064;#N/A
+N3000;N3K-C3172TQ;#N/A
+N3000;N3K-C3172PQ;#N/A
+N3000;N3K-C3064PQ-10GX;#N/A
+N9300;N9K-C93120TX;Nexus 9300 with 96p 1/10G-T and 6p 40G QSFP
+N9300;N9K-C92160YCX;#N/A
+N9300;N9K-C9396PX;#N/A
+N9300;N9K-C9364C;Nexus 9K ACI & NX-OS Spine, 64p 40/100G QSFP28
+ASR9000;UCSB-5108-AC2-U-BR;#N/A
+ASR9000;ASR-9010-DC;#N/A
+ASR9000;ASR-9910-TH-BUN;ASR 9910 TH Chassis bundle
+ASR1000;ASR1004-10G-SEC/K9;#N/A
+N9300;N9K-C9372PX;#N/A
+N9300;N9K-C9372PX-E;Nexus 9300 with 48p 10G SFP+ and 6p 40G QSFP+
+N9300;N9K-C9372TX;#N/A
+N9300;N9K-C9332PQ;Nexus 9300 Series, 32p 40G QSFP+
+N9300;N9K-C9336PQ;Nexus 9K ACI Spine, 36p 40G QSFP+
+N9300;N9K-C9372TX-E;Nexus 9300 with 48p 1/10G-T and 6p 40G QSFP+
+N9300;N9K-C9236C;Nexus 9K Fixed with 36p 100G QSFP28
+N9300;N9K-C92304QC;Nexus 9K Fixed with 56p 40G QSFP+ and 8p 100G QSFP28
+N9300;N9K-C92160YC-X;Nexus 9K Fixed with 48p 10G SFP+ and 6p 40G OR 4p 100G
+N9300;N9K-C9272Q;Nexus 9K Fixed with 72p 40G QSFP+
+N9300;N9K-C93128TX;#N/A
+N9300;N9K-C9396TX;#N/A
+UCSHX;HXAF220C-M5S-BR;Cisco HyperFlex HX220c M5 All Flash Node
+UCSHX;HXAF240C-M5SX-BR;Cisco HyperFlex HX240c M5 All Flash Node
+FPR2100;FPR2110-NGFW-K9;Cisco Firepower 2110 NGFW Appliance, 1U
+FPR2100;FPR2120-NGFW-K9;Cisco Firepower 2120 NGFW Appliance, 1U
+FPR2100;FPR2130-NGFW-K9;Cisco Firepower 2130 NGFW Appliance, 1U, 1 x NetMod Bay
+FPR2100;FPR2140-NGFW-K9;Cisco Firepower 2140 NGFW Appliance, 1U, 1 x NetMod Bay
+4300ISR;ISR4351-AX/K9;Cisco ISR 4351 AX Bundle w/ APP,SEC lic
+4300ISR;ISR4351-AXV/K9;Cisco ISR 4351 AXV Bundle,PVDM4-64 w/APP,SEC,UC lic,CUBE-25
+4300ISR;ISR4351-SEC/K9;Cisco ISR 4351 Sec bundle w/SEC license
+4300ISR;ISR4351-V/K9;Cisco ISR 4351 UC Bundle, PVDM4-64, UC License, CUBEE25
+4300ISR;ISR4351-VSEC/K9;Cisco ISR 4351 Bundle with UC & Sec Lic, PVDM4-64, CUBE-25
+4300ISR;ISR4351/K9;Cisco ISR 4351 (3GE,3NIM,2SM,4G FLASH,4G DRAM,IPB)
+4400ISR;ISR4451-X/K9;Cisco ISR 4451 (4GE,3NIM,2SM,8G FLASH,4G DRAM)
+N9300;C1-N9K-C92160YC-X;Cisco ONE Nexus 9K Fixed with 48p10G SFP+ & 6p40G OR 4p100G
+N5000;C1-N5548P-FA;#N/A
+N7000;C1-N7706-B26S2E-R;Cisco ONE N7706 Bundle (Chassis,2xSUP2E,6xFAB2),NoPowSup
+ASR1000;C1-ASR1001-HX/K9;Cisco ONE - ASR1001-HX, 4x10GE+4x1GE, 2x P/S
+UCSHX;HX220C-M5SX-BR;"
+Cisco HyperFlex HX220c M5 Node"
+UCSHX;HX240C-M5SX-BR;"
+Cisco HyperFlex HX240c M5 Node"
+UCSHX;HXAF-E-220M5SX- BR ;Cisco HyperFlex All Flash Edge 220 M5 system
+UCSHX;HX-M5S-HXDP-BR;configurador
+UCSHX;HXAF-M5S-HXDP-BR;configurador
+UCSHX;HX2X0C-M5S-BR;configurador
+UCSHX;HXAF2X0C-M5S-BR;configurador
+ASR9000;A99-32X100GE-CM=; ASR 9900 32-port 100GE Consumption Model Line Card, Spare
+ASR9000;A99-32X100GE-SE=; ASR 9900 32-port 100GE QSFP SE line card, Spare
+ASR9000;A99-32X100GE-TR=; ASR 9900 32-port 100GE QSFP TR line card, Spare
+ASR9000;A99-RP3-SE=; ASR 9900 Route Processor 3 for Service Edge, Spare
+ASR9000;A99-RP3-TR=; ASR 9900 Route Processor 3 for Packet Transport, Spare
+ASR9000;A99-SFC3=; ASR 9900 Series Switch Fabric Card 3, Spare
+ASR9000;A9K-16X100GE-CM=; ASR 9000 16-port 100GE Consumption Model Line Card, Spare
+ASR9000;A9K-16X100GE-SE=; ASR 9000 16-port 100GE QSFP SE line card, Spare
+ASR9000;A9K-16X100GE-TR=; ASR 9000 16-port 100GE QSFP TR line card, Spare
+ASR9000;A9K-8X100GE-X-CM=; ASR 9000 8-port 100GE-X Consumption Model Line Card, Spare
+ASR9000;A9K-8X100GE-X-SE=; ASR 9000 8-port 100GE QSFP SE line card, Spare
+ASR9000;A9K-8X100GE-X-TR=; ASR 9000 8-port 100GE QSFP TR line card, Spare
+ASR9000;A9K-RSP5-TR=; ASR 9000 Route Switch Processor 5 for Packet Transport, Spare
+ASR9000;ASR-9922-FAN-V3=; ASR 9922 System Fan Tray v3, Spare
+ASR9000;ASR-9901;ASR 9901 Chassis 
+ASR9000;ASR-9901-120G;ASR 9901 Chassis PayG 120G Base HW PID  
+ASR9000;ASR-9901-256G;ASR 9901 Chassis PayG 256G Base HW PID  
+ASR9000;ASR-9901=;ASR 9901 Chassis 
+ASR9000;ASR-9901-120G=;ASR 9901 Chassis PayG 120G Base HW PID 
+ASR9000;ASR-9901-256G=;ASR 9901 Chassis PayG 256G Base HW PID 
+ASR9000;ASR-9906;ASR 9906 4 Line Card Slot Chassis 
+ASR9000;ASR-9906-TH-BUN;ASR 9906 TH Chassis bundle  
+ASR9000;ASR-9906=;ASR 9906 4 Line Card Slot Chassis 
