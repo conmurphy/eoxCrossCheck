@@ -1,6 +1,6 @@
 Family;Part Number;Description
-1900ISR;AIR-AP1832I-Z-K9;C1905 Brazil 2 GE, HWIC-1T, CAB-SS-V35MT, 256F/256D, IPBase
-1900ISR;AIR-AP1832I-Z-K9;CE Brazil Cisco 1905 SEC Bundle
+1900ISR;CISCO1905BR/K9=;C1905 Brazil 2 GE, HWIC-1T, CAB-SS-V35MT, 256F/256D, IPBase
+1900ISR;C1905BR-SEC/K9=;CE Brazil Cisco 1905 SEC Bundle
 AIR1700;AIRCAP1702I-ZK9BR=;"802.11ac AP Ctrlr-based AP, 3x3:2SS; Int Ant;"
 AIR1830;AIR-AP1832I-Z-K9;"802.11ac Wave 2; 3x3:2SS; Int Ant; Z Reg Domain"
 AIR1830;AIR-AP1832I-Z-K9C;Cisco Aironet 1830 Series with Mobility Express
@@ -8,31 +8,85 @@ AIR1850;AIR-AP1852E-Z-K9;"802.11ac Wave 2; 4x4:4SS; Ext Ant; Z Reg Dom"
 AIR1850;AIR-AP1852E-Z-K9C;Aironet 1850 Series with Mobility Express
 AIR1850;AIR-AP1852I-Z-K9;"802.11ac Wave 2; 4x4:4SS; Int Ant; Z Reg Dom"
 AIR1850;AIR-AP1852I-Z-K9C;Aironet 1850 Series with Mobility Express
-UCSHX;HXAF-E-220M5SX- BR ;Cisco HyperFlex All Flash Edge 220 M5 system
-UCSHX;HX-M5S-HXDP-BR;configurador
-UCSHX;HXAF-M5S-HXDP-BR;configurador
-UCSHX;HX2X0C-M5S-BR;configurador
-UCSHX;HXAF2X0C-M5S-BR;configurador
-ASR9000;A99-32X100GE-CM=; ASR 9900 32-port 100GE Consumption Model Line Card, Spare
-ASR9000;A99-32X100GE-SE=; ASR 9900 32-port 100GE QSFP SE line card, Spare
-ASR9000;A99-32X100GE-TR=; ASR 9900 32-port 100GE QSFP TR line card, Spare
-ASR9000;A99-RP3-SE=; ASR 9900 Route Processor 3 for Service Edge, Spare
-ASR9000;A99-RP3-TR=; ASR 9900 Route Processor 3 for Packet Transport, Spare
-ASR9000;A99-SFC3=; ASR 9900 Series Switch Fabric Card 3, Spare
-ASR9000;A9K-16X100GE-CM=; ASR 9000 16-port 100GE Consumption Model Line Card, Spare
-ASR9000;A9K-16X100GE-SE=; ASR 9000 16-port 100GE QSFP SE line card, Spare
-ASR9000;A9K-16X100GE-TR=; ASR 9000 16-port 100GE QSFP TR line card, Spare
-ASR9000;A9K-8X100GE-X-CM=; ASR 9000 8-port 100GE-X Consumption Model Line Card, Spare
-ASR9000;A9K-8X100GE-X-SE=; ASR 9000 8-port 100GE QSFP SE line card, Spare
-ASR9000;A9K-8X100GE-X-TR=; ASR 9000 8-port 100GE QSFP TR line card, Spare
-ASR9000;A9K-RSP5-TR=; ASR 9000 Route Switch Processor 5 for Packet Transport, Spare
-ASR9000;ASR-9922-FAN-V3=; ASR 9922 System Fan Tray v3, Spare
-ASR9000;AIR-AP1832I-Z-K9;ASR 9901 Chassis 
-ASR9000;ASR-9901-120G;ASR 9901 Chassis PayG 120G Base HW PID  
-ASR9000;ASR-9901-256G;ASR 9901 Chassis PayG 256G Base HW PID  
-ASR9000;ASR-9901=;ASR 9901 Chassis 
-ASR9000;ASR-9901-120G=;ASR 9901 Chassis PayG 120G Base HW PID 
-ASR9000;ASR-9901-256G=;ASR 9901 Chassis PayG 256G Base HW PID 
-ASR9000;ASR-9906;ASR 9906 4 Line Card Slot Chassis 
-ASR9000;AIR-AP1832I-Z-K9;ASR 9906 TH Chassis bundle  
-ASR9000;AIR-AP1832I-Z-K9;ASR 9906 4 Line Card Slot Chassis 
+AIR2700;AIRCAP2702I-ZK9BR=;"802.11ac AP w/CleanAir; 3x4:3SS; Int Ant;"
+AIR2700;AIRCAP2702E-ZK9BR=;"802.11ac AP w/CleanAir; 3x4:3SS; Ext Ant,"
+AIR2800;AIR-AP2802E-Z-K9;"802.11ac W2 AP w/CA; 4x4:3; Ext Ant; 2xGbE, Z Domain"
+AIR2800;AIR-AP2802E-Z-K9C;Cisco Aironet 2800 Series with Mobility Express
+AIR2800;AIR-AP2802I-Z-K9;"802.11ac W2 AP w/CA; 4x4:3; Int Ant; 2xGbE Z Domain"
+AIR2800;AIR-AP2802I-Z-K9C;Cisco Aironet 2800 Series with Mobility Express
+AIR3800;AIR-AP3802E-Z-K9;"802.11ac W2 AP w/CA; 4x4:3; Mod; Ext Ant; mGig Z Domain"
+AIR3800;AIR-AP3802E-Z-K9C;Cisco Aironet 3800 Series with Mobility Express
+AIR3800;AIR-AP3802I-Z-K9;"802.11ac W2 AP w/CA; 4x4:3; Mod; Int Ant; mGig Z Domain"
+AIR3800;AIR-AP3802I-Z-K9C;Cisco Aironet 3800 Series with Mobility Express
+AIR3800;AIR-AP3802P-Z-K9;"802.11ac W2 AP w/CA; 4x4:3; Mod; Pro Ext; mGig Z Domain"
+AIR3800;AIR-AP3802P-Z-K9C;"802.11ac W2 AP w/CA; 4x4:3; Mod; Pro Ext; mGig Z Dom (CFG)"
+ASR1000;ASR1001-X;Cisco ASR1001-X Chassis, 6 built-in GE, Dual P/S, 8GB DRAM
+ASR1000;ASR1001X-2.5G-K9;ASR1001-X, 2.5G Base Bundle, K9,  AES, Built-in 6x1G
+ASR1000;ASR1001X-2.5G-SEC;ASR1001-X, 2.5G, VPN+FW Bundle, K9, AES, Built-in 6x1G
+ASR1000;ASR1001X-2.5G-VPN;ASR1001-X, 2.5G, VPN Bundle, K9, AES, Built-in 6x1G
+ASR1000;ASR1001X-20G-K9;ASR1001-X, 20G Base Bundle, K9, AES, Built-in 6x1G, 2x10G
+ASR1000;ASR1001X-5G-K9;ASR1001-X, 5G Base Bundle, K9,  AES, Built-in 6x1G
+ASR1000;ASR1001X-AES-AX;ASR1001X AX, AVC, AES, vWAAS Bundle
+ASR1000;ASR1002-X;Cisco ASR1002-X Chassis, 6 built-in GE, Dual P/S, 4GB DRAM
+ASR1000;ASR1002X-10G-K9;ASR1002-X, 10G, K9, AES license
+ASR1000;ASR1002X-10G-VPNK9;ASR1002-X, 10G, VPN Bundle, K9, AES license
+ASR1000;ASR1002X-5G-HA-K9;ASR1002-X, 5G, HA Bundle, K9, AES license
+ASR1000;ASR1002X-5G-K9;ASR1002-X, 5G, K9, AES license
+ASR1000;ASR1002X-5G-SECK9;ASR1002-X, 5G, VPN+FW Bundle, K9, AES license
+ASR1000;ASR1002X-5G-SHAK9;ASR1002-X, 5G, Sec+HA Bundle, K9, AES license
+ASR1000;ASR1002X-5G-VPNK9;ASR1002-X, 5G, VPN Bundle, K9, AES license
+ASR1000;ASR1004;Cisco ASR1004 Chassis, Dual P/S
+ASR1000;ASR1006;Cisco ASR1006 Chassis, Dual P/S
+ASR1000;ASR1013;Cisco ASR1013 Chassis, Redundant P/S
+ASR1000;ASR1002-HX;Cisco ASR1002-HX System,4x10GE+4x1GE, 2xP/S, optional crypto
+ASR1000;ASR1006-X;Cisco ASR1006-X Chassis
+ASR1000;ASR1009-X;Cisco ASR1009-X Chassis
+ASR1000;ASR1001-HX;Cisco ASR1001-HX System,8x10GE+8x1GE,2xP/S, optional crypto
+ASR1000;ASR1002-HX;Cisco ASR1002-HX System,4x10GE+4x1GE, 2xP/S, optional crypto
+ASR1000;ASR1009-X;Cisco ASR1009-X Chassis
+ASR1000;ASR1006-X;Cisco ASR1006-X Chassis
+ASR9000;ASR-9904;ASR-9904 2 Line Card Slot Chassis
+ASR9000;ASR-9006-SYS;ASR-9006 Chassis
+ASR9000;ASR-9010-SYS;ASR-9010 Chassis
+ASR9000;ASR-9010-DC-V2;ASR 9010 DC Chassis with PEM Version 2
+ASR9000;ASR-9010-AC-V2;ASR 9010 AC Chassis with PEM Version 2
+ASR9000;ASR-9006-DC-V2;ASR 9006 DC Chassis with PEM Version 2
+ASR9000;ASR-9006-AC-V2;ASR 9006 AC Chassis with PEM Version 2
+ASR9000;ASR-9001-S;ASR 9001 Chassis with 60G Bandwidth
+ASR9000;ASR-9001;ASR 9001 Chassis
+ASR9000;ASR-9910;ASR 9910 8 Line Card Slot Chassis
+ASR9000;ASR-9922-TH-BUN;ASR 9922 TH Chassis bundle
+ASR9000;ASR-9922;ASR 9922 20 Line Card Slot Chassis
+ASR9K Spares;A99-12X100GE=;ASR 9900 12-port 100GE Line card
+ASR9K Spares;A99-12X100GE-CM=;ASR 9900 12-port 100GE Consumption Model Line Card
+ASR9K Spares;A99-4PT-CM-SEL2P=;ASR 9900 4-port CM SE L2P Bundle (L2P, OAM, Virt, HQoS)
+ASR9K Spares;A99-4PT-CM-SEL3P=;ASR 9900 4-port CM SE L3P Bundle (L2L3P, OAM, Virt, HQoS)
+ASR9K Spares;A99-4PT-CM-TRL2P=;ASR 9900 4-port CM TR L2P Bundle (L2P, OAM, Virt)
+ASR9K Spares;A99-4PT-CM-TRL3P=;ASR 9900 4-port CM TR L3P Bundle (L2L3P, OAM, Virt)
+ASR9K Spares;A99-8PT-CM-SEL2P=;ASR 9900 8-port CM SE L2P Bundle (L2P, OAM, Virt, HQoS)
+ASR9K Spares;A99-8PT-CM-SEL3P=;ASR 9900 8-port CM SE L3P Bundle (L2L3P, OAM, Virt, HQoS)
+ASR9K Spares;A99-8PT-CM-TRL2P=;ASR 9900 8-port CM TR L2P Bundle (L2P, OAM, Virt)
+ASR9K Spares;A99-8PT-CM-TRL3P=;ASR 9900 8-port CM TR L3P Bundle (L2L3P, OAM, Virt)
+ASR9K Spares;A99-8X100GE-CM=;ASR 9900 8-port 100GE 7-fabric Consumption Model Line Card
+ASR9K Spares;A99-8X100GE-SE=;ASR 9900 8-port 100GE LC -SE OTN
+ASR9K Spares;A99-8X100GE-TR=;ASR 9900 8-port 100GE LC -TR OTN
+ASR9K Spares;A9K-4HG-200G-DWDM=;PAYG for 200Gbs use in  400G IPoDWDM cards
+ASR9K Spares;A9K-4PT-CM-SEL2P=;ASR 9K 4-port CM SE L2P Bundle including 8-port 100G LC
+ASR9K Spares;A9K-4PT-CM-SEL3P=;ASR 9K 4-port CM SE L3P Bundle including 8-port 100GE LC
+ASR9K Spares;A9K-4PT-CM-TRL2P=;ASR 9K 4-port CM TR L2P Bundle including 8-port 100G LC
+ASR9K Spares;A9K-4PT-CM-TRL3P=;ASR 9K 4-port CM TR L3P Bundle including 8-port 100GE LC
+ASR9K Spares;A9K-8PT-CM-SEL2P=;ASR 9K Consumption Model SE L2P Bundle Spare
+ASR9K Spares;A9K-8PT-CM-SEL3P=;ASR 9K Consumption Model SE L3P Bundle Spare
+ASR9K Spares;A9K-8PT-CM-TRL2P=;ASR 9K Consumption Model TR L2P Bundle Spare
+ASR9K Spares;A9K-8PT-CM-TRL3P=;ASR 9K Consumption Model TR L3P Bundle Spare
+ASR9K Spares;A9K-8X100GE-CM=;ASR 9000 8-port 100GE Consumption Model Line Card
+ASR9K Spares;A9K-8X100GE-SE=;ASR 9000 8-port 100GE SE card -OTN
+ASR9K Spares;A9K-8X100GE-TR=;ASR 9000 8-port 100GE TR card -OTN
+ASR9K Spares;A9K-MOD200-SE=;200G Modular Linecard, Service Edge Optimized
+ASR9K Spares;A9K-MOD200-TR=;200G Modular Linecard, Packet Transport Optimized
+ASR9K Spares;A9K-MOD400-SE=;400G Modular Linecard, Service Edge Optimized
+ASR9K Spares;A9K-MOD400-TR=;400G Modular Linecard, Packet Transport Optimized
+ASR9K Spares;A99-SFC2=;ASR 9900 Series Switch Fabric Card 2 Spare
+ASR9K Spares;A99-SFC-S=;ASR 9910 Switch Fabric Card
+ASR9K Spares;ASR-9922-SFC110=;ASR 9922 Switch Fabric Card/110G
+ASR9K Spares;A9K-VSM-500=;ASR9000 Virtualized Service Module
