@@ -8,3 +8,31 @@ AIR1850;AIR-AP1852E-Z-K9;"802.11ac Wave 2; 4x4:4SS; Ext Ant; Z Reg Dom"
 AIR1850;AIR-AP1852E-Z-K9C;Aironet 1850 Series with Mobility Express
 AIR1850;AIR-AP1852I-Z-K9;"802.11ac Wave 2; 4x4:4SS; Int Ant; Z Reg Dom"
 AIR1850;AIR-AP1852I-Z-K9C;Aironet 1850 Series with Mobility Express
+UCSHX;HXAF-E-220M5SX- BR ;Cisco HyperFlex All Flash Edge 220 M5 system
+UCSHX;HX-M5S-HXDP-BR;configurador
+UCSHX;HXAF-M5S-HXDP-BR;configurador
+UCSHX;HX2X0C-M5S-BR;configurador
+UCSHX;HXAF2X0C-M5S-BR;configurador
+ASR9000;A99-32X100GE-CM=; ASR 9900 32-port 100GE Consumption Model Line Card, Spare
+ASR9000;A99-32X100GE-SE=; ASR 9900 32-port 100GE QSFP SE line card, Spare
+ASR9000;A99-32X100GE-TR=; ASR 9900 32-port 100GE QSFP TR line card, Spare
+ASR9000;A99-RP3-SE=; ASR 9900 Route Processor 3 for Service Edge, Spare
+ASR9000;A99-RP3-TR=; ASR 9900 Route Processor 3 for Packet Transport, Spare
+ASR9000;A99-SFC3=; ASR 9900 Series Switch Fabric Card 3, Spare
+ASR9000;A9K-16X100GE-CM=; ASR 9000 16-port 100GE Consumption Model Line Card, Spare
+ASR9000;A9K-16X100GE-SE=; ASR 9000 16-port 100GE QSFP SE line card, Spare
+ASR9000;A9K-16X100GE-TR=; ASR 9000 16-port 100GE QSFP TR line card, Spare
+ASR9000;A9K-8X100GE-X-CM=; ASR 9000 8-port 100GE-X Consumption Model Line Card, Spare
+ASR9000;A9K-8X100GE-X-SE=; ASR 9000 8-port 100GE QSFP SE line card, Spare
+ASR9000;A9K-8X100GE-X-TR=; ASR 9000 8-port 100GE QSFP TR line card, Spare
+ASR9000;A9K-RSP5-TR=; ASR 9000 Route Switch Processor 5 for Packet Transport, Spare
+ASR9000;ASR-9922-FAN-V3=; ASR 9922 System Fan Tray v3, Spare
+ASR9000;ASR-9901;ASR 9901 Chassis 
+ASR9000;ASR-9901-120G;ASR 9901 Chassis PayG 120G Base HW PID  
+ASR9000;ASR-9901-256G;ASR 9901 Chassis PayG 256G Base HW PID  
+ASR9000;ASR-9901=;ASR 9901 Chassis 
+ASR9000;ASR-9901-120G=;ASR 9901 Chassis PayG 120G Base HW PID 
+ASR9000;ASR-9901-256G=;ASR 9901 Chassis PayG 256G Base HW PID 
+ASR9000;ASR-9906;ASR 9906 4 Line Card Slot Chassis 
+ASR9000;ASR-9906-TH-BUN;ASR 9906 TH Chassis bundle  
+ASR9000;ASR-9906=;ASR 9906 4 Line Card Slot Chassis 
