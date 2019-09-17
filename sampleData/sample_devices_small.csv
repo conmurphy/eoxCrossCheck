@@ -58,35 +58,12 @@ ASR9000;ASR-9910;ASR 9910 8 Line Card Slot Chassis
 ASR9000;ASR-9922-TH-BUN;ASR 9922 TH Chassis bundle
 ASR9000;ASR-9922;ASR 9922 20 Line Card Slot Chassis
 ASR9K Spares;A99-12X100GE=;ASR 9900 12-port 100GE Line card
-ASR9K Spares;A99-12X100GE-CM=;ASR 9900 12-port 100GE Consumption Model Line Card
-ASR9K Spares;A99-4PT-CM-SEL2P=;ASR 9900 4-port CM SE L2P Bundle (L2P, OAM, Virt, HQoS)
-ASR9K Spares;A99-4PT-CM-SEL3P=;ASR 9900 4-port CM SE L3P Bundle (L2L3P, OAM, Virt, HQoS)
-ASR9K Spares;A99-4PT-CM-TRL2P=;ASR 9900 4-port CM TR L2P Bundle (L2P, OAM, Virt)
-ASR9K Spares;A99-4PT-CM-TRL3P=;ASR 9900 4-port CM TR L3P Bundle (L2L3P, OAM, Virt)
-ASR9K Spares;A99-8PT-CM-SEL2P=;ASR 9900 8-port CM SE L2P Bundle (L2P, OAM, Virt, HQoS)
-ASR9K Spares;A99-8PT-CM-SEL3P=;ASR 9900 8-port CM SE L3P Bundle (L2L3P, OAM, Virt, HQoS)
-ASR9K Spares;A99-8PT-CM-TRL2P=;ASR 9900 8-port CM TR L2P Bundle (L2P, OAM, Virt)
-ASR9K Spares;A99-8PT-CM-TRL3P=;ASR 9900 8-port CM TR L3P Bundle (L2L3P, OAM, Virt)
-ASR9K Spares;A99-8X100GE-CM=;ASR 9900 8-port 100GE 7-fabric Consumption Model Line Card
-ASR9K Spares;A99-8X100GE-SE=;ASR 9900 8-port 100GE LC -SE OTN
-ASR9K Spares;A99-8X100GE-TR=;ASR 9900 8-port 100GE LC -TR OTN
-ASR9K Spares;A9K-4HG-200G-DWDM=;PAYG for 200Gbs use in  400G IPoDWDM cards
-ASR9K Spares;A9K-4PT-CM-SEL2P=;ASR 9K 4-port CM SE L2P Bundle including 8-port 100G LC
-ASR9K Spares;A9K-4PT-CM-SEL3P=;ASR 9K 4-port CM SE L3P Bundle including 8-port 100GE LC
-ASR9K Spares;A9K-4PT-CM-TRL2P=;ASR 9K 4-port CM TR L2P Bundle including 8-port 100G LC
-ASR9K Spares;A9K-4PT-CM-TRL3P=;ASR 9K 4-port CM TR L3P Bundle including 8-port 100GE LC
-ASR9K Spares;A9K-8PT-CM-SEL2P=;ASR 9K Consumption Model SE L2P Bundle Spare
-ASR9K Spares;A9K-8PT-CM-SEL3P=;ASR 9K Consumption Model SE L3P Bundle Spare
-ASR9K Spares;A9K-8PT-CM-TRL2P=;ASR 9K Consumption Model TR L2P Bundle Spare
-ASR9K Spares;A9K-8PT-CM-TRL3P=;ASR 9K Consumption Model TR L3P Bundle Spare
-ASR9K Spares;A9K-8X100GE-CM=;ASR 9000 8-port 100GE Consumption Model Line Card
-ASR9K Spares;A9K-8X100GE-SE=;ASR 9000 8-port 100GE SE card -OTN
-ASR9K Spares;A9K-8X100GE-TR=;ASR 9000 8-port 100GE TR card -OTN
-ASR9K Spares;A9K-MOD200-SE=;200G Modular Linecard, Service Edge Optimized
-ASR9K Spares;A9K-MOD200-TR=;200G Modular Linecard, Packet Transport Optimized
-ASR9K Spares;A9K-MOD400-SE=;400G Modular Linecard, Service Edge Optimized
-ASR9K Spares;A9K-MOD400-TR=;400G Modular Linecard, Packet Transport Optimized
-ASR9K Spares;A99-SFC2=;ASR 9900 Series Switch Fabric Card 2 Spare
-ASR9K Spares;A99-SFC-S=;ASR 9910 Switch Fabric Card
-ASR9K Spares;ASR-9922-SFC110=;ASR 9922 Switch Fabric Card/110G
-ASR9K Spares;A9K-VSM-500=;ASR9000 Virtualized Service Module
+ME3400;ME-3400EG-12CS-M;ME3400E 12Combo + 4 SFPs
+ME3400;ME-3400EG-2CS-A;ME3400E 2Combo + 2 SFP
+ME3400;ME-3400E-24TS-M;ME3400E Ethernet Access switches 24 10/100 + 2 Combo
+N3000;N3K-C3064PQ;#N/A
+N3000;N3K-C3064TQ;#N/A
+N3000;N3K-C3064;#N/A
+N3000;N3K-C3172TQ;#N/A
+N3000;N3K-C3172PQ;#N/A
+N3000;N3K-C3064PQ-10GX;#N/A
